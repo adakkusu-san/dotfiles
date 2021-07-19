@@ -1,2 +1,2 @@
 # dotfiles
-SOON
+~~SOON~~ NOW
