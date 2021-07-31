@@ -1,0 +1,13 @@
+! xcalc settings
+# include ".config/xresources.d/xcalc/xcalc.conf"
+
+! urxvt colours 
+# include ".config/xresources.d/xcolours/antix.conf"
+
+Xft.dpi: 96
+Xft.antialias: false
+Xft.hinting: false
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintnone
+Xft.lcdfilter: lcdnone
